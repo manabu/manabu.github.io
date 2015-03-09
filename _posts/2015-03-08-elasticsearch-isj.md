@@ -124,7 +124,7 @@ json_data = open(json_file_path) do |io|
 end
 id = 1
 json_data['features'].each do |item|
-  header = '{ "index" : { "_index" : "wako", "_type" : "shelter", "_id" : "' + id.to_s + '" } }'
+  header = '{ "index" : { "_index" : "isj", "_type" : "isj", "_id" : "' + id.to_s + '" } }'
   puts header
   puts JSON.dump(item)
   id=id+1
