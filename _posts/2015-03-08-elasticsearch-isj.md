@@ -118,7 +118,7 @@ import用のruby script
 
 ```ruby
 require 'json'
-json_file_path = 'wako_shelter_geojson_2014.json'
+json_file_path = 'geojson.json'
 json_data = open(json_file_path) do |io|
   JSON.load(io)
 end
