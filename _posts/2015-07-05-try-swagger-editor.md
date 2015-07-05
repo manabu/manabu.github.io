@@ -22,9 +22,11 @@ REST風のAPIのドキュメントを書いてみようとおもって、探し�
 
 ## Server Generate
 サーバーは以下のような言語で出力してくれるみたい。
+
 ![Swagger Generate Server](/images/swagger-editor-generate-server-list.png)
 ## Client Generate
 クライアントは以下のような言語で出力してくれるみたい。
+
 ![Swagger Generate Server](/images/swagger-editor-generate-client-list.png)
 
 # Swagger Editor を Dockerで動かす
