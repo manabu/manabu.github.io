@@ -20,6 +20,13 @@ REST風のAPIのドキュメントを書いてみようとおもって、探し�
 
 ここで動いているので特にそれを使えばよい
 
+## Server Generate
+サーバーは以下のような言語で出力してくれるみたい。
+![Swagger Generate Server](/images/swagger-editor-generate-server-lsit.png)
+## Client Generate
+クライアントは以下のような言語で出力してくれるみたい。
+![Swagger Generate Server](/images/swagger-editor-generate-client-lsit.png)
+
 # Swagger Editor を Dockerで動かす
 
 ソースコードも配っていて
