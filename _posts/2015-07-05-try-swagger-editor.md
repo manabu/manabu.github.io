@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swagger editorを試す
+title: Swagger Editorを試す
 date: 2015-07-05T14:21:00
 ---
 # Swagger
