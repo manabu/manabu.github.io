@@ -72,12 +72,14 @@ run /elasticsearch/bin/plugin -install elasticsearch/elasticsearch-analysis-kuro
 ```
 
 起動する
+
 ```
 docker run -d -p 9200:9200 -p 9300:9300 -v $PWD/data:/data manabu/elasticsearch /elasticsearch/bin/elasticsearch -Des.config=/data/elasticsearch.yml
 ```
 
 
 インデックスを作る
+
 ```
 #!/bin/bash
 # require kuromoji plugin
@@ -92,8 +94,10 @@ curl -XPUT 'localhost:9200/isj' -d '{
       }
     }										 }
 }'
-```												  
+```							
+
 インデックスを作るbashスクリプト
+
 ```
 #!/bin/bash
 
@@ -130,6 +134,3 @@ json_data['features'].each do |item|
   id=id+1
 end
 ```	  
-
-
-
