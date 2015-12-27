@@ -29,8 +29,8 @@ date: 2015-12-26T05:31:00
 
 # elasticsearchへ入れる
 
-1.indexを作る
-2.データをインポートする
+1. indexを作る
+2. データをインポートする
 
 elasticsearchに大量にインポートするときは以下を参照
 [Bulk API](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html#docs-bulk "Bulk API")
