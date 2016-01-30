@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Information
 
-A place to include any other types of information that you'd like to include about yourself.
+プログラムをよく書いています。
+
+手先は不器用ですが、最近は電子工作をはじめました。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+github or twitter
