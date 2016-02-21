@@ -9,7 +9,7 @@ date: 2016-02-02T03:31:00
 キーボード自作とか、調べるだけならと思った結果、以下のものをみつけた。
 作りたいものいくつかあるけど、
 
-[Customized Keyboard Tutorial for Hackers and Developers | Toptal](http://www.toptal.com/embedded/from-the-ground-up-how-i-built-the-developers-dream-keybooard "Customized Keyboard Tutorial for Hackers and Developers | Toptal")
+[Customized Keyboard Tutorial for Hackers and Developers Toptal](http://www.toptal.com/embedded/from-the-ground-up-how-i-built-the-developers-dream-keybooard )
 
 これの Step one と two　は、やってみたいな。
 
