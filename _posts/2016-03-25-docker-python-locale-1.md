@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker の python:2.7.11 をベースに localeを設定する
-date: 2016-03-03T03:31:00
+date: 2016-03-25T03:31:00
 ---
 
 django関連で以下のようなエラーがでていた。
