@@ -7,7 +7,12 @@ date: 2016-06-08T01:21:00
 # intel XDK で OAuth2 を使ってログインするための資料
 
 
+
 ## intel のドキュメント
+
+まずはチュートリアル
+
+* [Getting Started Tutorial | Intel® Software](https://software.intel.com/en-us/xdk/docs/intel-xdk-guided-tutorial)
 
 ちょっと古いかも？
 
