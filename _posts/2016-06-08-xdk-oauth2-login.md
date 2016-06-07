@@ -1,7 +1,7 @@
 ---
 layout: post
 title: intel XDK で oauth2 を使ってログインするための資料
-date: 2016-06-08T01:21:00
+date: 2016-06-08T01:21:01
 ---
 
 # intel XDK で OAuth2 を使ってログインするための資料
