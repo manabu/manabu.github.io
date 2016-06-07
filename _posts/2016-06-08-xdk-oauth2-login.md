@@ -22,6 +22,8 @@ date: 2016-06-08T01:21:01
 
 * [Using OAuth2 Authentication | Intel® Software](https://software.intel.com/en-us/xdk/docs/oauth2authentication)
 
+* [Intel® XDK App Designer - Part 14 - OAuth2 and Services | Intel® Software](https://software.intel.com/en-us/videos/oauth-2-and-services)
+
 ## intel以外のドキュメント
 
 * [krisrak/jquery-cordova-oauth2: jQuery plugin for doing Oauth2 login in a Cordova App](https://github.com/krisrak/jquery-cordova-oauth2)
