@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atom 1.8.0 にしたらエラーがでた
+title: Atom 1.8.0 にしたらエラーがでた。その解決策。
 date: 2016-07-19T01:21:01
 ---
 
@@ -26,6 +26,8 @@ onDidChangeStatus
 3. 再度インストール手順にしたがっていれる。
 
 とやってみたが、うまくいかなかった。
+
+# 解決策
 
 よくよくRoot Causeを読んでみたら、
 * [Atom](https://atom.io/)
