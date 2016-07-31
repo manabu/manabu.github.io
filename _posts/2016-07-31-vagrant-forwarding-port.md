@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atom 1.8.0 にしたらエラーがでた。その解決策。
+title: coreos-vagrant での port forward の設定をなんとかしたかった
 date: 2016-07-31T11:21:01
 ---
 
