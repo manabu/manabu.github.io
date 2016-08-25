@@ -15,6 +15,9 @@ goで書いたプログラムをビルドして、それをgithubに配置して
 
 これに従えば良い。
 
+# 作ったレポジトリ
+
+* [manabu/wercker-golang-start: wercker golang first project](https://github.com/manabu/wercker-golang-start)
 
 ## プログラムの内容
 
