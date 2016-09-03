@@ -13,6 +13,16 @@ wercker でbuildして、githubに置きたい。
 
 wercker動き出しまで速い。
 
+## 失敗したこと
+
+deployの中を１つづつ詰めていこうと思ったのだけど
+deployというpipelineを作ることをしていなくて、
+まったくdeployプロセスがおこなわれていなかった。
+
+書きなおそうかと思ったけど、失敗をそのまま記録することにした。
+
+deployというpipelineを作ったらうまくいった
+
 # まずはgithubにレポジトリを作る
 
 githubにレポジトリを作る
