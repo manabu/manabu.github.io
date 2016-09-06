@@ -16,6 +16,8 @@ date: 2016-09-07T09:21:01
 |0.1.4|しない|
 
 
+
+
 # gobumpでバージョンを取得し、タグが付いてるか調べる
 
 タグがついているときだけ、replaceしたいので、
@@ -119,3 +121,7 @@ deploy:
         replace: $REPLACEFLAG
         version: $RELEASE_TAG
 ```
+
+# 参考
+
+* [wercker-golang-helloworld-build-cmd/wercker.yml at master · manabu/wercker-golang-helloworld-build-cmd](https://github.com/manabu/wercker-golang-helloworld-build-cmd/blob/master/wercker.yml)
