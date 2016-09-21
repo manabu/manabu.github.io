@@ -32,7 +32,7 @@ $GOPATH/src
 
 * [そろそろ真面目に Golang 開発環境について考える — GOPATH 汚染問題 - Qiita](http://qiita.com/spiegel-im-spiegel/items/73ebc684b5807277b7e2)
 
-* [Go言語のDependency/Vendoringの問題と今後．gbあるいはGo1.5 | SOTA](http://deeeet.com/writing/2015/06/26/golang-dependency-vendoring/)
+* [Go言語のDependency/Vendoringの問題と今後．gbあるいはGo1.5 \| SOTA](http://deeeet.com/writing/2015/06/26/golang-dependency-vendoring/)
 
 * [Go言語の作業ディレクトリをドキュメントに従って作り直してみた - Qiita](http://qiita.com/ttsuzo/items/45eb4fc269986df9122c)
 
