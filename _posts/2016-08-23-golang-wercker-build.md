@@ -46,7 +46,7 @@ publicにして作成してみた
 
 もしcloneした場合は、わざと、ミスタイプして、pushすると何がおこるのかチェックするとよいのではないかと思う。
 
-# badge を着けてみる
+# badge を付けてみる
 
 * [Branch badges](http://blog.wercker.com/2014/02/10/branch-badges.html)
 
