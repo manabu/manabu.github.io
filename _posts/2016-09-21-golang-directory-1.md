@@ -2,6 +2,7 @@
 layout: post
 title: go の開発環境を整える。ディレクトリ
 date: 2016-09-21T21:21:01
+categories: go
 ---
 
 # カレントディレクトリってどうするんだ？
