@@ -34,6 +34,6 @@ categories: atom
 
 * [Supercharging the Atom Editor for Go Development · marcio.io](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/)
 
-# 参考図書
+# atomの本
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mi3002-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4774182702&linkId=7adfcfbc990a6e9595bb38ef2380ee15"></iframe>
