@@ -1,7 +1,7 @@
 ---
 layout: post
 title: golint の comment の warning
-date: 2016-09-21T21:21:01
+date: 2016-09-24T01:21:01
 categories: go
 ---
 
