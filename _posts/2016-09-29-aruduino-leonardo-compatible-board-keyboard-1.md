@@ -27,7 +27,7 @@ Lチカは、標準のBlinkでは上手くチカチカしない感じだった�
 
 かなりキーボードっぽい
 
-* [Turn your ProMicro into a USB Keyboard/Mouse - SparkFun Electronics](https://www.sparkfun.com/tutorials/337)
+* [Arduino LEONARDOでUSBキーボード出力 - 電子ガジェットいろいろ 開発メモ](http://d.hatena.ne.jp/uosoft/20150127/1422288430)
 
 # ボタンが複数なら
 
