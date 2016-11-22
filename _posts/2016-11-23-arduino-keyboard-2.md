@@ -64,3 +64,10 @@ avrdude: butterfly_recv(): programmer is not responding
 ```
 
 色々でてくるが、結局ボードの選択ミスで、正しい物を選択すると、問題なくUploadできた。
+
+# 参考
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mi3002-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0025Y6C5G&linkId=3c61d6ccace03e6a45ca9df678ef28e7"></iframe>
+
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=mi3002-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0044X2E5S&linkId=839800492fed8df6bc1dbc1118ec6c76"></iframe>
