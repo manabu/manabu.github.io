@@ -13,7 +13,7 @@ categories: keyboard
 こういうことをやってみたいが、
 まずは、ボタン１つくらいからかなぁ。
 
-* [builderscon tokyo 2016 で「 Bluetooth キーボードの作りかた」を喋りました | tech - 氾濫原](https://lowreal.net/2016/12/03/1)
+* [builderscon tokyo 2016 で「 Bluetooth キーボードの作りかた」を喋りました \| tech - 氾濫原](https://lowreal.net/2016/12/03/1)
 
 ## 海外
 
