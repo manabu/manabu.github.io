@@ -6,11 +6,9 @@ date: 2017-04-29T04:57:02
 categories: sparql football wikipedia dbpedia soccer
 ---
 
-# 概要
+## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
 
-サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
-
-# DBpedia
+## DBpedia
 
 本体と各言語ごとのサイトが存在するようだ。
 返ってくることも違う感じ
