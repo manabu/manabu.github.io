@@ -1,6 +1,7 @@
 ---
 layout: post
 title: サッカー関連のSPARQLクエリについて調べてみた
+description: サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
 date: 2017-04-29T04:57:02
 categories: sparql football wikipedia dbpedia soccer
 ---
@@ -75,10 +76,82 @@ SELECT * WHERE {
  }
 ```
 
+## スペインにあるクラブの一覧
+
+
+* [sql - Sparql query to find football clubs in Spain and their stadiums - Stack Overflow](http://stackoverflow.com/questions/35376628/sparql-query-to-find-football-clubs-in-spain-and-their-stadiums)
+
+
+```
+SELECT ?club ?grounds WHERE
+{
+    # select a SoccerClub and it's grounds
+    ?club a dbo:SoccerClub ;
+          dbo:ground ?grounds .
+
+    # limit only to grounds which are in Spain
+    ?grounds dbo:location dbr:Spain.
+}
+```
+
+## スペイン一部(La Liga)のクラブおよびそのスタジアム一覧、部分的にしか出てこない
+
+でてくるが、これだと一部しかない。
+
+```
+SELECT ?club ?grounds WHERE
+{
+    # select a SoccerClub and it's grounds
+    ?club a dbo:SoccerClub ;
+          dbo:position dbr:La_Liga;
+          dbo:ground ?grounds .
+
+    # limit only to grounds which are in Spain
+    ?grounds dbo:location dbr:Spain.
+}
+```
+
+## スペイン一部(La Liga)のクラブ一覧、未検証
+
+`dbr:position`だけでなく、`dbr:league`というのも必要なようだ
+あわせても全部でてくるわけではないようだ。。。
+
+```
+SELECT ?club ?grounds WHERE
+{
+    # select a SoccerClub and it's grounds
+    ?club a dbo:SoccerClub ;
+          dbo:league dbr:La_Liga;
+          dbo:ground ?grounds .
+
+    # limit only to grounds which are in Spain
+    ?grounds dbo:location dbr:Spain.
+}
+```
+
+## ドイツ一部(Bundesliga)のクラブおよびそのスタジアム一覧、部分的にしか出てこない
+
+でてくるが、これだと一部分(15チーム)しかない。
+
+```
+SELECT ?club ?grounds WHERE
+{
+    # select a SoccerClub and it's grounds
+    ?club a dbo:SoccerClub ;
+          dbo:league dbr:Bundesliga;
+          dbo:ground ?grounds .
+
+    # limit only to grounds which are in Spain
+    ?grounds dbo:location dbr:Germany.
+}
+```
+
+
 # 参考
 
 * [直感RDF!!　その2 -使いやすいRDFを作って，検索しよう。 - Qiita](http://qiita.com/maoringo/items/0d48a3d967a35581cc24)
 
+* [Indian Football Universe: kicking with SPARQL, DBpedia and Network Graphs | Saurabh Yadav | Pulse | LinkedIn](https://www.linkedin.com/pulse/indian-football-universe-kicking-sparql-dbpedia-network-saurabh-yadav)
 
 # 参考図書
 
