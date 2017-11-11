@@ -7,7 +7,9 @@ categories: sparql football wikipedia dbpedia soccer
 keyword: sparql,football
 ---
 
-## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
+## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す。H2
+
+
 
 ## DBpedia
 
