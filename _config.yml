@@ -91,3 +91,5 @@ lang: ja_JP
 #
 plugins:
   - jekyll-seo-tag
+social:
+  name: Manabu Ishii
