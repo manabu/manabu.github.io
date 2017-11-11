@@ -1,13 +1,13 @@
 ---
 layout: post
 title: サッカー関連のSPARQLクエリについて調べてみた
-description: サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す。description
+description: サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
 date: 2017-04-29T04:57:02
 categories: sparql football wikipedia dbpedia soccer
 keyword: sparql,football
 ---
 
-## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す。H2
+## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
 
 
 
@@ -152,7 +152,7 @@ SELECT ?club ?grounds WHERE
 
 * [直感RDF!!　その2 -使いやすいRDFを作って，検索しよう。 - Qiita](http://qiita.com/maoringo/items/0d48a3d967a35581cc24)
 
-* [Indian Football Universe: kicking with SPARQL, DBpedia and Network Graphs | Saurabh Yadav | Pulse | LinkedIn](https://www.linkedin.com/pulse/indian-football-universe-kicking-sparql-dbpedia-network-saurabh-yadav)
+* [Indian Football Universe: kicking with SPARQL, DBpedia and Network Graphs \| Saurabh Yadav \| Pulse \| LinkedIn](https://www.linkedin.com/pulse/indian-football-universe-kicking-sparql-dbpedia-network-saurabh-yadav)
 
 # 参考図書
 
