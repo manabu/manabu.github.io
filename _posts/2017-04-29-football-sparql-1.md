@@ -152,7 +152,7 @@ SELECT ?club ?grounds WHERE
 
 * [直感RDF!!　その2 -使いやすいRDFを作って，検索しよう。 - Qiita](http://qiita.com/maoringo/items/0d48a3d967a35581cc24)
 
-* [Indian Football Universe: kicking with SPARQL, DBpedia and Network Graphs \| Saurabh Yadav \| Pulse \| LinkedIn](https://www.linkedin.com/pulse/indian-football-universe-kicking-sparql-dbpedia-network-saurabh-yadav)
+* [Indian Football Universe: kicking with SPARQL, DBpedia and Network Graphs  Saurabh Yadav  Pulse  LinkedIn](https://www.linkedin.com/pulse/indian-football-universe-kicking-sparql-dbpedia-network-saurabh-yadav)
 
 # 参考図書
 
