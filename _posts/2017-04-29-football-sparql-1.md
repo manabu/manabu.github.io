@@ -1,9 +1,10 @@
 ---
 layout: post
 title: サッカー関連のSPARQLクエリについて調べてみた
-description: サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
+description: サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す。description
 date: 2017-04-29T04:57:02
 categories: sparql football wikipedia dbpedia soccer
+keyword: sparql,football
 ---
 
 ## サッカー関連のSPARQLクエリについてよく考えるので、メモとして調べたことを残す
