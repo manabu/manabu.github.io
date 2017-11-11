@@ -87,3 +87,7 @@ jekyll-archives:
 
 #
 lang: ja_JP
+
+#
+plugins:
+  - jekyll-seo-tag
