@@ -6,7 +6,7 @@ date: 2017-11-19T00:07:02
 categories: sparql football wikipedia dbpedia soccer wikidata
 ---
 
-以前、[DBPediaを使ったやつ](http://manabu.github.io/football-sparql-1/ "サッカー関連のSPARQLクエリについて調べてみた – どこかのブログ – どこかの開発者") を作ったが、今回は Wikidata
+以前、[DBPediaを使ったやつ](http://manabu.github.io/football-sparql-1/ "サッカー関連のSPARQLクエリについて調べてみた – どこかのブログ – どこかの開発者") を作ったが、今回は [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page "Wikidata")
 
 # Wikidata と DBPedia との違い
 
