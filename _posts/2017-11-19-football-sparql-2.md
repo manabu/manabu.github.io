@@ -36,10 +36,12 @@ SELECT ?s  ?sLabel WHERE {
 }
 ```
 
-なんかもでてくる。
+今所属している選手も、過去に所属していたも選手でてくるので
 
 * [浅野拓磨](https://www.wikidata.org/wiki/Q11557367 "浅野拓磨")
 * [宮市亮](https://www.wikidata.org/wiki/Q310605 "宮市亮")
+
+なんかもでてくる。
 
 # 参考
 
