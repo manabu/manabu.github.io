@@ -1,7 +1,7 @@
 ---
 layout: post
-title: uptime robotを使って、サイトが落ちていないか監視して、SlackとDiscordに通知する。
-description: uptime robotを使って、サイトが落ちていないか監視してSlackとDiscordに通知する
+title: Uptime Robotを使って、サイトが落ちていないか監視して、SlackとDiscordに通知する。
+description: Uptime Robotを使って、サイトが落ちていないか監視してSlackとDiscordに通知する
 date: 2017-11-18T14:57:02
 categories: uptimerobot slack discord monitoring
 ---
