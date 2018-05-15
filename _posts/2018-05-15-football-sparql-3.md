@@ -29,8 +29,14 @@ SELECT ?s  ?sLabel  ?num WHERE {
 }
 ```
 
+[Wikidata でのクエリ](https://query.wikidata.org/#SELECT%20%3Fs%20%20%3FsLabel%20%20%3Fnum%20WHERE%20%7B%0A%20%20%3Fs%20wdt%3AP54%20%20wd%3AQ9617.%0A%20%20OPTIONAL%20%7B%3Fs%20wdt%3AP1618%20%3Fnum.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%7D%0A%0A)
+
 [Jack Wilshere - Wikidata](https://www.wikidata.org/wiki/Q15199)
 の背番号は、`10`でとれている。
+
+# 参考にしたサイト
+
+[Writing a Wikidata Query: Discovering Women Writers from North Africa](https://medium.com/freely-sharing-the-sum-of-all-knowledge/writing-a-wikidata-query-discovering-women-writers-from-north-africa-d020634f0f6c)
 
 # 参考
 
