@@ -14,7 +14,7 @@ categories: browser firefox chromium chrome
 - Chrome
     - [Vimium - Chrome ウェブストア](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 - Firefox
-    - [Vimium - Chrome ウェブストア](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+    - [Vimium-FF – Get this Extension for 🦊 Firefox (ja)](https://addons.mozilla.org/ja/firefox/addon/vimium-ff/)
 
 ビジュアルモードに入ったあと、終了位置は指定できるが、開始位置の変更方法がよくわからなかったがついにその方法がわかった
 
