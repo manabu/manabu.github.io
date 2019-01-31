@@ -20,10 +20,10 @@ categories: browser firefox chromium chrome
 
 [Visual Mode · philc/vimium Wiki](https://github.com/philc/vimium/wiki/Visual-Mode)
 
-1. `v` を押す
-2. `c` を押す
+1. <kbd>v</kbd> を押す
+2. <kbd>c</kbd> を押す
 3. vim みたいにカーソルを動かして、先頭を合わせる
-4. `v` を押す
+4. <kbd>v</kbd> を押す
 
 # 参考
 
