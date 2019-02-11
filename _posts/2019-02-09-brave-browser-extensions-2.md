@@ -10,6 +10,7 @@ categories: browser brave chromium vimium extension
 
 以前(0.26.x)はできなかったような気がするのだが、
 0.59.xになってから、入れられるようになったようだ。
+(追記：もしかしたら、もっと前からできたのかもしれない。自分がこのバージョンからしか知らないため。)
 
 とりあえず、[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) をいれてみたところ、
 問題なく動くことがわかった。
