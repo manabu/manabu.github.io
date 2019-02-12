@@ -29,7 +29,7 @@ apt-get install nvidia-legacy-390xx-driver
 ある一定年数を超えるとサポートがおわるのだろう。
 最近なら、オンボードのもので、十分なのかもしれない。
 
-#　参考
+# 参考
 
 NVIDIA GeForce RTX 2080Ti 
 
