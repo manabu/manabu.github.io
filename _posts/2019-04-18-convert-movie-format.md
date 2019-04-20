@@ -17,7 +17,7 @@ categories: linux ffmpeg apeman actioncamera
 
 
 参考:
-[複数の動画ファイルを結合する](../concat-movies/)
+[アクションカメラで撮った複数の動画ファイルを結合する](../concat-movies/)
 
 
 # PS4のメディアプレーヤーで再生できるフォーマットへ変換する
