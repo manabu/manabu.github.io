@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 複数の動画ファイルを結合する
-description: 複数の動画ファイルを結合する
+title: アクションカメラで撮った複数の動画ファイルを結合する
+description: アクションカメラで撮った複数の動画ファイルを結合する
 date: 2019-04-19T22:07:02
 categories: linux debian nvidia
 ---
